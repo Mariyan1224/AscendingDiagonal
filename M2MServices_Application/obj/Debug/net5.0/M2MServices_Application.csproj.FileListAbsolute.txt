@@ -1,0 +1,16 @@
+D:\mine\work_experience\M2MServices\M2MServices_Application\bin\Debug\net5.0\M2MServices_Application.exe
+D:\mine\work_experience\M2MServices\M2MServices_Application\bin\Debug\net5.0\M2MServices_Application.deps.json
+D:\mine\work_experience\M2MServices\M2MServices_Application\bin\Debug\net5.0\M2MServices_Application.runtimeconfig.json
+D:\mine\work_experience\M2MServices\M2MServices_Application\bin\Debug\net5.0\M2MServices_Application.runtimeconfig.dev.json
+D:\mine\work_experience\M2MServices\M2MServices_Application\bin\Debug\net5.0\M2MServices_Application.dll
+D:\mine\work_experience\M2MServices\M2MServices_Application\bin\Debug\net5.0\ref\M2MServices_Application.dll
+D:\mine\work_experience\M2MServices\M2MServices_Application\bin\Debug\net5.0\M2MServices_Application.pdb
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.csproj.AssemblyReference.cache
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.AssemblyInfoInputs.cache
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.AssemblyInfo.cs
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.csproj.CoreCompileInputs.cache
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.dll
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\ref\M2MServices_Application.dll
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.pdb
+D:\mine\work_experience\M2MServices\M2MServices_Application\obj\Debug\net5.0\M2MServices_Application.genruntimeconfig.cache

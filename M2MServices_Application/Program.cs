@@ -7,7 +7,7 @@ namespace M2MServices_Application
         static void Main(string[] args)
         {
             bool isAscending = false;
-            int[,] matrix = new int[5, 5];
+            int[,] matrix = new int[4, 4];
             Init(matrix);
             Console.WriteLine("Generated matrix: ");
             ShowMatrix(matrix);
